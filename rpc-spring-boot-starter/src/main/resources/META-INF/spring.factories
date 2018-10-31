@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+cn.itweknow.rpc.rpcspringbootstarter.config.RpcAutoConfiguration,\
+cn.itweknow.rpc.rpcspringbootstarter.config.ServerAutoConfiguration,\
+cn.itweknow.rpc.rpcspringbootstarter.config.ConsumerAutoConfiguration
